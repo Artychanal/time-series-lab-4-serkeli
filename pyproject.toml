@@ -1,0 +1,9 @@
+[project]
+name = "time-series-4"
+version = "0.1.0"
+requires-python = ">=3.12"
+description = "Laboratory 4: decomposition, correlations, clustering and synthetic time series"
+dependencies = [
+    "numpy>=2.2,<3", "pandas>=2.2,<3", "scipy>=1.15,<2",
+    "matplotlib>=3.10,<4", "statsmodels>=0.14,<0.15", "scikit-learn>=1.6,<2",
+]

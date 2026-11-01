@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+results/
+results_quick/
+output/
+tmp/
+~$*
+PLAN.md
